@@ -1,0 +1,9 @@
+{
+	"name": "dwiltse-adf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c73775b4-9241-4745-b592-3f881d827098",
+		"tenantId": "77e1c5fc-dba8-4e3e-a38f-46e7f7f00a34"
+	}
+}

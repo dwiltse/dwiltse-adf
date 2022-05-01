@@ -1,0 +1,13 @@
+{
+	"name": "ADLS_dwiltsedatalake2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Linked services to the dwiltsedatalake Azure Data Lake Storage Account",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://dwiltsedatalake.dfs.core.windows.net",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDM1NTdENzQxLTgzMjctNEY0NC1BNzRBLUI4NDVEMkIzRTE2NF9hZWZjMDEyMC0xYTk2LTQ3MTMtOGFkNC1kZTNlM2FmOWZhODAiDQp9"
+		}
+	}
+}
